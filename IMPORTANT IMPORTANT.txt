@@ -1,0 +1,8 @@
+train -- java file ( file handling )
+compile --> train table me train dal jayegi
+train jv --> insert call;
+train dal jayegi train jv run karne se ;
+
+BOOKING
+input aya --> extract karke input daalna;
+add to the procedures ; // train dal gai;
